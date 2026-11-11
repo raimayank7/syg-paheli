@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paheli.shareyourgroup.com/sitemap.xml
